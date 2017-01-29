@@ -1,0 +1,294 @@
+ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoregion
+4200051,SC,Abdon Batista,,-51.025272211,-27.6089871233,Abdon Batista,,Curitibanos,Serrana
+4200101,SC,Abelardo Luz,,-52.3364823833,-26.5630310224,Abelardo Luz,,Xanxerê,Oeste Catarinense
+4200200,SC,Agrolândia,,-49.8256533877,-27.400516588,Agrolandia,,Ituporanga,Vale do Itajaí
+4200309,SC,Agronômica,,-49.7183688908,-27.2697161071,Agronomica,,Rio do Sul,Vale do Itajaí
+4200408,SC,Água Doce,,-51.5590965553,-27.0040916589,Agua Doce,,Joaçaba,Oeste Catarinense
+4200507,SC,Águas de Chapecó,,-52.9872510057,-27.0762129125,Aguas de Chapeco,,Chapecó,Oeste Catarinense
+4200556,SC,Águas Frias,,-52.8594194494,-26.880227543,Aguas Frias,,Chapecó,Oeste Catarinense
+4200606,SC,Águas Mornas,,-48.8405384028,-27.7065971917,Aguas Mornas,,Tabuleiro,Grande Florianópolis
+4200705,SC,Alfredo Wagner,,-49.3438123012,-27.705396332,Alfredo Wagner,,Tabuleiro,Grande Florianópolis
+4200754,SC,Alto Bela Vista,,-51.9110368541,-27.4311378753,Alto Bela Vista,,Concórdia,Oeste Catarinense
+4200804,SC,Anchieta,,-53.3332701772,-26.5356808607,Anchieta,,São Miguel D'oeste,Oeste Catarinense
+4200903,SC,Angelina,,-48.9834760642,-27.5822573521,Angelina,,Tijucas,Grande Florianópolis
+4201000,SC,Anita Garibaldi,,-51.1311938713,-27.6837772901,Anita Garibaldi,,Campos de Lages,Serrana
+4201109,SC,Anitápolis,,-49.1315993662,-27.9098868973,Anitapolis,,Tabuleiro,Grande Florianópolis
+4201208,SC,Antônio Carlos,,-48.7649600268,-27.5133710516,Antonio Carlos,,Florianópolis,Grande Florianópolis
+4201257,SC,Apiúna,,-49.3916376288,-27.0418125981,Apiuna,,Blumenau,Vale do Itajaí
+4201273,SC,Arabutã,,-52.1485992607,-27.1574036959,Arabuta,,Concórdia,Oeste Catarinense
+4201307,SC,Araquari,,-48.6927074119,-26.3759515541,Araquari,,Joinville,Norte Catarinense
+4201406,SC,Araranguá,,-49.4809665236,-28.9357520142,Ararangua,,Araranguá,Sul Catarinense
+4201505,SC,Armazém,,-49.0129110848,-28.2587054679,Armazem,,Tubarão,Sul Catarinense
+4201604,SC,Arroio Trinta,,-51.3341239239,-26.9325648567,Arroio Trinta,,Joaçaba,Oeste Catarinense
+4201653,SC,Arvoredo,,-52.4577888412,-27.0735335582,Arvoredo,,Concórdia,Oeste Catarinense
+4201703,SC,Ascurra,,-49.3863634278,-26.9547758425,Ascurra,,Blumenau,Vale do Itajaí
+4201802,SC,Atalanta,,-49.7794566741,-27.4205360018,Atalanta,,Ituporanga,Vale do Itajaí
+4201901,SC,Aurora,,-49.6436279075,-27.2990294946,Aurora,,Rio do Sul,Vale do Itajaí
+4201950,SC,Balneário Arroio do Silva,,-49.4057027991,-28.9804024548,Balneario Arroio do Silva,,Araranguá,Sul Catarinense
+4202008,SC,Balneário Camboriú,,-48.634617477,-26.9918186053,Balneario Camboriu,,Itajaí,Vale do Itajaí
+4202057,SC,Balneário Barra do Sul,,-48.606645876,-26.4564295671,Balneario Barra do Sul,,Joinville,Norte Catarinense
+4202073,SC,Balneário Gaivota,,-49.5908937824,-29.1645212685,Balneario Gaivota,,Araranguá,Sul Catarinense
+4202081,SC,Bandeirante,,-53.6410495866,-26.7689379013,Bandeirante,,São Miguel D'oeste,Oeste Catarinense
+4202099,SC,Barra Bonita,,-53.4413025406,-26.6522935999,Barra Bonita,,São Miguel D'oeste,Oeste Catarinense
+4202107,SC,Barra Velha,,-48.6838642743,-26.6343614083,Barra Velha,,Itajaí,Vale do Itajaí
+4202131,SC,Bela Vista do Toldo,,-50.4647882385,-26.2762282783,Bela Vista do Toldo,,Canoinhas,Norte Catarinense
+4202156,SC,Belmonte,,-53.5809772315,-26.8445863475,Belmonte,,São Miguel D'oeste,Oeste Catarinense
+4202206,SC,Benedito Novo,,-49.3644027494,-26.777507569,Benedito Novo,,Blumenau,Vale do Itajaí
+4202305,SC,Biguaçu,,-48.654488929,-27.4943227435,Biguacu,,Florianópolis,Grande Florianópolis
+4202404,SC,Blumenau,,-49.0576308844,-26.9161077053,Blumenau,,Blumenau,Vale do Itajaí
+4202438,SC,Bocaina do Sul,,-49.9458979108,-27.7431983069,Bocaina do Sul,,Campos de Lages,Serrana
+4202453,SC,Bombinhas,,-48.5213451348,-27.1442546993,Bombinhas,,Itajaí,Vale do Itajaí
+4202503,SC,Bom Jardim da Serra,,-49.6249777453,-28.337947191,Bom Jardim da Serra,,Campos de Lages,Serrana
+4202537,SC,Bom Jesus,,-52.3930159598,-26.7359234356,Bom Jesus,,Xanxerê,Oeste Catarinense
+4202578,SC,Bom Jesus do Oeste,,-53.0953502802,-26.6918115546,Bom Jesus do Oeste,,Chapecó,Oeste Catarinense
+4202602,SC,Bom Retiro,,-49.4898337661,-27.7986710014,Bom Retiro,,Campos de Lages,Serrana
+4202701,SC,Botuverá,,-49.0784843619,-27.2021068612,Botuvera,,Blumenau,Vale do Itajaí
+4202800,SC,Braço do Norte,,-49.1645477089,-28.2800388673,Braco do Norte,,Tubarão,Sul Catarinense
+4202859,SC,Braço do Trombudo,,-49.890907936,-27.3642513451,Braco do Trombudo,,Rio do Sul,Vale do Itajaí
+4202875,SC,Brunópolis,,-50.835920772,-27.3183621508,Brunopolis,,Curitibanos,Serrana
+4202909,SC,Brusque,,-48.9151630055,-27.0983102262,Brusque,,Blumenau,Vale do Itajaí
+4203006,SC,Caçador,,-51.019034759,-26.7753476727,Cacador,,Joaçaba,Oeste Catarinense
+4203105,SC,Caibi,,-53.2505271956,-27.0730539326,Caibi,,Chapecó,Oeste Catarinense
+4203154,SC,Calmon,,-51.0966349046,-26.6046771771,Calmon,,Joaçaba,Oeste Catarinense
+4203204,SC,Camboriú,,-48.6499958521,-27.0264564992,Camboriu,,Itajaí,Vale do Itajaí
+4203253,SC,Capão Alto,,-50.5114792926,-27.9416852818,Capao Alto,,Campos de Lages,Serrana
+4203303,SC,Campo Alegre,,-49.2633444821,-26.1906592825,Campo Alegre,,São Bento do Sul,Norte Catarinense
+4203402,SC,Campo Belo do Sul,,-50.7619937519,-27.8966573873,Campo Belo do Sul,,Campos de Lages,Serrana
+4203501,SC,Campo Erê,,-53.0901551703,-26.394551141,Campo Ere,,Chapecó,Oeste Catarinense
+4203600,SC,Campos Novos,,-51.2236729932,-27.3990529792,Campos Novos,,Curitibanos,Serrana
+4203709,SC,Canelinha,,-48.7892731277,-27.2724147946,Canelinha,,Tijucas,Grande Florianópolis
+4203808,SC,Canoinhas,,-50.3978487119,-26.1788070143,Canoinhas,,Canoinhas,Norte Catarinense
+4203907,SC,Capinzal,,-51.6113627552,-27.3442784642,Capinzal,,Joaçaba,Oeste Catarinense
+4203956,SC,Capivari de Baixo,,-48.9605750681,-28.4490455118,Capivari de Baixo,,Tubarão,Sul Catarinense
+4204004,SC,Catanduvas,,-51.6589480986,-27.0720352216,Catanduvas,,Joaçaba,Oeste Catarinense
+4204103,SC,Caxambu do Sul,,-52.8804748929,-27.1612817849,Caxambu do Sul,,Chapecó,Oeste Catarinense
+4204152,SC,Celso Ramos,,-51.3359938248,-27.6347386054,Celso Ramos,,Campos de Lages,Serrana
+4204178,SC,Cerro Negro,,-50.8700622647,-27.7958280677,Cerro Negro,,Campos de Lages,Serrana
+4204194,SC,Chapadão do Lageado,,-49.5443259549,-27.5852982512,Chapadao do Lageado,,Ituporanga,Vale do Itajaí
+4204202,SC,Chapecó,,-52.6170311134,-27.1068370215,Chapeco,,Chapecó,Oeste Catarinense
+4204251,SC,Cocal do Sul,,-49.3271287199,-28.6030228653,Cocal do Sul,,Criciúma,Sul Catarinense
+4204301,SC,Concórdia,,-52.0239710697,-27.2336587801,Concordia,,Concórdia,Oeste Catarinense
+4204350,SC,Cordilheira Alta,,-52.6032512708,-26.9850812923,Cordilheira Alta,,Chapecó,Oeste Catarinense
+4204400,SC,Coronel Freitas,,-52.7091514565,-26.9032514118,Coronel Freitas,,Chapecó,Oeste Catarinense
+4204459,SC,Coronel Martins,,-52.6696992888,-26.5116375953,Coronel Martins,,Xanxerê,Oeste Catarinense
+4204509,SC,Corupá,,-49.226737,-26.4319663158,Corupa,,Joinville,Norte Catarinense
+4204558,SC,Correia Pinto,,-50.3637605546,-27.584808345,Correia Pinto,,Campos de Lages,Serrana
+4204608,SC,Criciúma,,-49.3659395588,-28.6735722527,Criciuma,,Criciúma,Sul Catarinense
+4204707,SC,Cunha Porã,,-53.173845572,-26.8917270825,Cunha Pora,,Chapecó,Oeste Catarinense
+4204756,SC,Cunhataí,,-53.0932904926,-26.9731396983,Cunhatai,,Chapecó,Oeste Catarinense
+4204806,SC,Curitibanos,,-50.5826010353,-27.2829825065,Curitibanos,,Curitibanos,Serrana
+4204905,SC,Descanso,,-53.5046288706,-26.817870221,Descanso,,São Miguel D'oeste,Oeste Catarinense
+4205001,SC,Dionísio Cerqueira,,-53.6313951228,-26.2664885337,Dionisio Cerqueira,,São Miguel D'oeste,Oeste Catarinense
+4205100,SC,Dona Emma,,-49.7168977451,-26.9863006137,Dona Emma,,Rio do Sul,Vale do Itajaí
+4205159,SC,Doutor Pedrinho,,-49.4792933619,-26.7204609555,Doutor Pedrinho,,Blumenau,Vale do Itajaí
+4205175,SC,Entre Rios,,-52.5625339678,-26.7236210953,Entre Rios,,Xanxerê,Oeste Catarinense
+4205191,SC,Ermo,,-49.6434049775,-28.9850817923,Ermo,,Araranguá,Sul Catarinense
+4205209,SC,Erval Velho,,-51.4434329044,-27.2738954846,Erval Velho,,Joaçaba,Oeste Catarinense
+4205308,SC,Faxinal dos Guedes,,-52.2714153987,-26.8597867214,Faxinal dos Guedes,,Xanxerê,Oeste Catarinense
+4205357,SC,Flor do Sertão,,-53.3448914355,-26.7794323288,Flor do Sertao,,Chapecó,Oeste Catarinense
+4205407,SC,Florianópolis,true,-48.5476373782,-27.5877955486,Florianopolis,,Florianópolis,Grande Florianópolis
+4205431,SC,Formosa do Sul,,-52.7934500253,-26.6485233783,Formosa do Sul,,Chapecó,Oeste Catarinense
+4205456,SC,Forquilhinha,,-49.4688610534,-28.7424153509,Forquilhinha,,Criciúma,Sul Catarinense
+4205506,SC,Fraiburgo,,-50.9250792352,-27.0234469627,Fraiburgo,,Joaçaba,Oeste Catarinense
+4205555,SC,Frei Rogério,,-50.8064082491,-27.1747514992,Frei Rogerio,,Curitibanos,Serrana
+4205605,SC,Galvão,,-52.6820020756,-26.4554762384,Galvao,,Xanxerê,Oeste Catarinense
+4205704,SC,Garopaba,,-48.6125566829,-28.0208959348,Garopaba,,Tubarão,Sul Catarinense
+4205803,SC,Garuva,,-48.8498418594,-26.0220755061,Garuva,,Joinville,Norte Catarinense
+4205902,SC,Gaspar,,-48.9677065681,-26.9183685142,Gaspar,,Blumenau,Vale do Itajaí
+4206009,SC,Governador Celso Ramos,,-48.5781665645,-27.3186459075,Governador Celso Ramos,,Florianópolis,Grande Florianópolis
+4206108,SC,Grão Pará,,-49.2199960405,-28.1839865262,Grao Para,,Tubarão,Sul Catarinense
+4206207,SC,Gravatal,,-49.0394702582,-28.3291307178,Gravatal,,Tubarão,Sul Catarinense
+4206306,SC,Guabiruba,,-48.983560448,-27.0603252393,Guabiruba,,Blumenau,Vale do Itajaí
+4206405,SC,Guaraciaba,,-53.5220897182,-26.6003475708,Guaraciaba,,São Miguel D'oeste,Oeste Catarinense
+4206504,SC,Guaramirim,,-48.9921042659,-26.4744451283,Guaramirim,,Joinville,Norte Catarinense
+4206603,SC,Guarujá do Sul,,-53.5254451083,-26.384920604,Guaruja do Sul,,São Miguel D'oeste,Oeste Catarinense
+4206652,SC,Guatambú,,-52.7838401343,-27.1369108659,Guatambu,,Chapecó,Oeste Catarinense
+4206702,SC,Herval d'Oeste,,-51.4962153103,-27.1703031847,Herval d'Oeste,,Joaçaba,Oeste Catarinense
+4206751,SC,Ibiam,,-51.2394276983,-27.1805834764,Ibiam,,Joaçaba,Oeste Catarinense
+4206801,SC,Ibicaré,,-51.368450262,-27.0915490161,Ibicare,,Joaçaba,Oeste Catarinense
+4206900,SC,Ibirama,,-49.5220277592,-27.0535408849,Ibirama,,Rio do Sul,Vale do Itajaí
+4207007,SC,Içara,,-49.3008225783,-28.7070840092,Icara,,Criciúma,Sul Catarinense
+4207106,SC,Ilhota,,-48.8250140064,-26.9046251832,Ilhota,,Itajaí,Vale do Itajaí
+4207205,SC,Imaruí,,-48.8146717195,-28.3438499095,Imarui,,Tubarão,Sul Catarinense
+4207304,SC,Imbituba,,-48.6692841969,-28.239951114,Imbituba,,Tubarão,Sul Catarinense
+4207403,SC,Imbuia,,-49.427729345,-27.4946042536,Imbuia,,Ituporanga,Vale do Itajaí
+4207502,SC,Indaial,,-49.24014046,-26.9062559992,Indaial,,Blumenau,Vale do Itajaí
+4207577,SC,Iomerê,,-51.2406190979,-27.0010780508,Iomere,,Joaçaba,Oeste Catarinense
+4207601,SC,Ipira,,-51.7708536189,-27.4097088482,Ipira,,Concórdia,Oeste Catarinense
+4207650,SC,Iporã do Oeste,,-53.5395118843,-26.9960166793,Ipora do Oeste,,São Miguel D'oeste,Oeste Catarinense
+4207684,SC,Ipuaçu,,-52.4542969118,-26.6325600977,Ipuacu,,Xanxerê,Oeste Catarinense
+4207700,SC,Ipumirim,,-52.1405408668,-27.0683263638,Ipumirim,,Concórdia,Oeste Catarinense
+4207759,SC,Iraceminha,,-53.276057794,-26.8240650316,Iraceminha,,Chapecó,Oeste Catarinense
+4207809,SC,Irani,,-51.904107924,-27.0161866891,Irani,,Concórdia,Oeste Catarinense
+4207858,SC,Irati,,-52.8950113563,-26.6572269448,Irati,,Chapecó,Oeste Catarinense
+4207908,SC,Irineópolis,,-50.8039000498,-26.2366129371,Irineopolis,,Canoinhas,Norte Catarinense
+4208005,SC,Itá,,-52.3291825163,-27.2817787175,Ita,,Concórdia,Oeste Catarinense
+4208104,SC,Itaiópolis,,-49.9087562022,-26.3371264112,Itaiopolis,,Canoinhas,Norte Catarinense
+4208203,SC,Itajaí,,-48.6570232083,-26.9074262398,Itajai,,Itajaí,Vale do Itajaí
+4208302,SC,Itapema,,-48.6173993861,-27.0959378837,Itapema,,Itajaí,Vale do Itajaí
+4208401,SC,Itapiranga,,-53.7148020649,-27.1753750895,Itapiranga,,São Miguel D'oeste,Oeste Catarinense
+4208450,SC,Itapoá,,-48.6041676071,-26.006047887,Itapoa,,Joinville,Norte Catarinense
+4208500,SC,Ituporanga,,-49.6034147011,-27.4148584907,Ituporanga,,Ituporanga,Vale do Itajaí
+4208609,SC,Jaborá,,-51.743353839,-27.1728530869,Jabora,,Joaçaba,Oeste Catarinense
+4208708,SC,Jacinto Machado,,-49.7617686564,-29.0014186138,Jacinto Machado,,Araranguá,Sul Catarinense
+4208807,SC,Jaguaruna,,-49.0491289861,-28.6249636892,Jaguaruna,,Tubarão,Sul Catarinense
+4208906,SC,Jaraguá do Sul,,-49.0762988228,-26.4904843494,Jaragua do Sul,,Joinville,Norte Catarinense
+4208955,SC,Jardinópolis,,-52.858899256,-26.7205694035,Jardinopolis,,Chapecó,Oeste Catarinense
+4209003,SC,Joaçaba,,-51.5066897333,-27.1739445292,Joacaba,,Joaçaba,Oeste Catarinense
+4209102,SC,Joinville,,-48.8494091432,-26.3045176487,Joinville,,Joinville,Norte Catarinense
+4209151,SC,José Boiteux,,-49.6238066865,-26.9546826166,Jose Boiteux,,Rio do Sul,Vale do Itajaí
+4209177,SC,Jupiá,,-52.7343805408,-26.393702818,Jupia,,Xanxerê,Oeste Catarinense
+4209201,SC,Lacerdópolis,,-51.5628663691,-27.2646000912,Lacerdopolis,,Joaçaba,Oeste Catarinense
+4209300,SC,Lages,,-50.3302224242,-27.8172594631,Lages,,Campos de Lages,Serrana
+4209409,SC,Laguna,,-48.7813886218,-28.4835859539,Laguna,,Tubarão,Sul Catarinense
+4209458,SC,Lajeado Grande,,-52.5660348495,-26.8609423456,Lajeado Grande,,Xanxerê,Oeste Catarinense
+4209508,SC,Laurentino,,-49.755263661,-27.2123881016,Laurentino,,Rio do Sul,Vale do Itajaí
+4209607,SC,Lauro Muller,,-49.3943072672,-28.3935851653,Lauro Muller,,Criciúma,Sul Catarinense
+4209706,SC,Lebon Régis,,-50.6918278644,-26.9291140112,Lebon Regis,,Joaçaba,Oeste Catarinense
+4209805,SC,Leoberto Leal,,-49.289401499,-27.5063895157,Leoberto Leal,,Tijucas,Grande Florianópolis
+4209854,SC,Lindóia do Sul,,-52.0809226442,-27.0474644815,Lindoia do Sul,,Concórdia,Oeste Catarinense
+4209904,SC,Lontras,,-49.5448293547,-27.1574865637,Lontras,,Rio do Sul,Vale do Itajaí
+4210001,SC,Luiz Alves,,-48.9260467723,-26.7211107867,Luiz Alves,,Blumenau,Vale do Itajaí
+4210035,SC,Luzerna,,-51.4679460432,-27.1298960692,Luzerna,,Joaçaba,Oeste Catarinense
+4210050,SC,Macieira,,-51.376121977,-26.8552123885,Macieira,,Joaçaba,Oeste Catarinense
+4210100,SC,Mafra,,-49.8010375283,-26.1152284943,Mafra,,Canoinhas,Norte Catarinense
+4210209,SC,Major Gercino,,-48.9533539589,-27.4186604134,Major Gercino,,Tijucas,Grande Florianópolis
+4210308,SC,Major Vieira,,-50.3329868433,-26.357526536,Major Vieira,,Canoinhas,Norte Catarinense
+4210407,SC,Maracajá,,-49.4543763246,-28.850314607,Maracaja,,Araranguá,Sul Catarinense
+4210506,SC,Maravilha,,-53.1748188159,-26.7616239473,Maravilha,,Chapecó,Oeste Catarinense
+4210555,SC,Marema,,-52.6271354101,-26.8004219088,Marema,,Xanxerê,Oeste Catarinense
+4210605,SC,Massaranduba,,-48.9887446627,-26.5954580147,Massaranduba,,Joinville,Norte Catarinense
+4210704,SC,Matos Costa,,-51.1574514436,-26.4741154352,Matos Costa,,Joaçaba,Oeste Catarinense
+4210803,SC,Meleiro,,-49.6298493602,-28.8324458209,Meleiro,,Araranguá,Sul Catarinense
+4210852,SC,Mirim Doce,,-50.0685637124,-27.2012050831,Mirim Doce,,Rio do Sul,Vale do Itajaí
+4210902,SC,Modelo,,-53.0535007992,-26.7780420757,Modelo,,Chapecó,Oeste Catarinense
+4211009,SC,Mondaí,,-53.3986840279,-27.1036116941,Mondai,,São Miguel D'oeste,Oeste Catarinense
+4211058,SC,Monte Carlo,,-50.974104678,-27.2176788021,Monte Carlo,,Curitibanos,Serrana
+4211108,SC,Monte Castelo,,-50.2262714329,-26.4563624722,Monte Castelo,,Canoinhas,Norte Catarinense
+4211207,SC,Morro da Fumaça,,-49.2132565084,-28.654787843,Morro da Fumaca,,Criciúma,Sul Catarinense
+4211256,SC,Morro Grande,,-49.7187999838,-28.7997195367,Morro Grande,,Araranguá,Sul Catarinense
+4211306,SC,Navegantes,,-48.6491829025,-26.8974391193,Navegantes,,Itajaí,Vale do Itajaí
+4211405,SC,Nova Erechim,,-52.9112866654,-26.9012733981,Nova Erechim,,Chapecó,Oeste Catarinense
+4211454,SC,Nova Itaberaba,,-52.8112440549,-26.9428898836,Nova Itaberaba,,Chapecó,Oeste Catarinense
+4211504,SC,Nova Trento,,-48.9257954329,-27.2877711668,Nova Trento,,Tijucas,Grande Florianópolis
+4211603,SC,Nova Veneza,,-49.5031235817,-28.6382326023,Nova Veneza,,Criciúma,Sul Catarinense
+4211652,SC,Novo Horizonte,,-52.8340333905,-26.4461719902,Novo Horizonte,,Chapecó,Oeste Catarinense
+4211702,SC,Orleans,,-49.2914262911,-28.3604689663,Orleans,,Tubarão,Sul Catarinense
+4211751,SC,Otacílio Costa,,-50.1123146891,-27.503846175,Otacilio Costa,,Campos de Lages,Serrana
+4211801,SC,Ouro,,-51.6205621782,-27.3424881724,Ouro,,Joaçaba,Oeste Catarinense
+4211850,SC,Ouro Verde,,-52.3100192014,-26.6959944196,Ouro Verde,,Xanxerê,Oeste Catarinense
+4211876,SC,Paial,,-52.5010887493,-27.2551577941,Paial,,Concórdia,Oeste Catarinense
+4211892,SC,Painel,,-50.113009741,-27.9145181854,Painel,,Campos de Lages,Serrana
+4211900,SC,Palhoça,,-48.6702879187,-27.6470436837,Palhoca,,Florianópolis,Grande Florianópolis
+4212007,SC,Palma Sola,,-53.2799772512,-26.3465081338,Palma Sola,,São Miguel D'oeste,Oeste Catarinense
+4212056,SC,Palmeira,,-50.1590014056,-27.5822620705,Palmeira,,Campos de Lages,Serrana
+4212106,SC,Palmitos,,-53.1622672929,-27.0702505492,Palmitos,,Chapecó,Oeste Catarinense
+4212205,SC,Papanduva,,-50.1632041973,-26.3939830708,Papanduva,,Canoinhas,Norte Catarinense
+4212239,SC,Paraíso,,-53.6753141317,-26.6152629708,Paraiso,,São Miguel D'oeste,Oeste Catarinense
+4212254,SC,Passo de Torres,,-49.7251452725,-29.3234599051,Passo de Torres,,Araranguá,Sul Catarinense
+4212270,SC,Passos Maia,,-52.0617238004,-26.7808891472,Passos Maia,,Xanxerê,Oeste Catarinense
+4212304,SC,Paulo Lopes,,-48.6814954136,-27.9498162326,Paulo Lopes,,Florianópolis,Grande Florianópolis
+4212403,SC,Pedras Grandes,,-49.1864875474,-28.4372176497,Pedras Grandes,,Tubarão,Sul Catarinense
+4212502,SC,Penha,,-48.6475729113,-26.7688610927,Penha,,Itajaí,Vale do Itajaí
+4212601,SC,Peritiba,,-51.9098146671,-27.3773092815,Peritiba,,Concórdia,Oeste Catarinense
+4212700,SC,Petrolândia,,-49.6948686231,-27.528126833,Petrolandia,,Ituporanga,Vale do Itajaí
+4212809,SC,Balneário Piçarras,,-48.675051354,-26.7691705385,Balneario Picarras,,Itajaí,Vale do Itajaí
+4212908,SC,Pinhalzinho,,-52.9822532451,-26.8488143342,Pinhalzinho,,Chapecó,Oeste Catarinense
+4213005,SC,Pinheiro Preto,,-51.2305364835,-27.0451346161,Pinheiro Preto,,Joaçaba,Oeste Catarinense
+4213104,SC,Piratuba,,-51.7586498276,-27.4159535517,Piratuba,,Concórdia,Oeste Catarinense
+4213153,SC,Planalto Alegre,,-52.8673520308,-27.0694597761,Planalto Alegre,,Chapecó,Oeste Catarinense
+4213203,SC,Pomerode,,-49.1741975274,-26.7448263965,Pomerode,,Blumenau,Vale do Itajaí
+4213302,SC,Ponte Alta,,-50.3771006508,-27.4677840728,Ponte Alta,,Curitibanos,Serrana
+4213351,SC,Ponte Alta do Norte,,-50.4654042678,-27.1690291829,Ponte Alta do Norte,,Curitibanos,Serrana
+4213401,SC,Ponte Serrada,,-52.0145375125,-26.8749128276,Ponte Serrada,,Xanxerê,Oeste Catarinense
+4213500,SC,Porto Belo,,-48.6027567396,-27.1494662097,Porto Belo,,Itajaí,Vale do Itajaí
+4213609,SC,Porto União,,-51.0816046336,-26.2300048981,Porto Uniao,,Canoinhas,Norte Catarinense
+4213708,SC,Pouso Redondo,,-49.9556521355,-27.2510862782,Pouso Redondo,,Rio do Sul,Vale do Itajaí
+4213807,SC,Praia Grande,,-49.9605919763,-29.1957763636,Praia Grande,,Araranguá,Sul Catarinense
+4213906,SC,Presidente Castello Branco,,-51.8113755382,-27.2199421946,Presidente Castello Branco,,Concórdia,Oeste Catarinense
+4214003,SC,Presidente Getúlio,,-49.6220861691,-27.0414082411,Presidente Getulio,,Rio do Sul,Vale do Itajaí
+4214102,SC,Presidente Nereu,,-49.4032927711,-27.2873292141,Presidente Nereu,,Rio do Sul,Vale do Itajaí
+4214151,SC,Princesa,,-53.5981058756,-26.4443352068,Princesa,,São Miguel D'oeste,Oeste Catarinense
+4214201,SC,Quilombo,,-52.7276095701,-26.7400555498,Quilombo,,Chapecó,Oeste Catarinense
+4214300,SC,Rancho Queimado,,-49.00843238,-27.6772088641,Rancho Queimado,,Tabuleiro,Grande Florianópolis
+4214409,SC,Rio das Antas,,-51.0760199432,-26.8970674359,Rio das Antas,,Joaçaba,Oeste Catarinense
+4214508,SC,Rio do Campo,,-50.139588913,-26.9423084311,Rio do Campo,,Rio do Sul,Vale do Itajaí
+4214607,SC,Rio do Oeste,,-49.8028622167,-27.191166518,Rio do Oeste,,Rio do Sul,Vale do Itajaí
+4214706,SC,Rio dos Cedros,,-49.2723794436,-26.7491298162,Rio dos Cedros,,Blumenau,Vale do Itajaí
+4214805,SC,Rio do Sul,,-49.6432375291,-27.2179032254,Rio do Sul,,Rio do Sul,Vale do Itajaí
+4214904,SC,Rio Fortuna,,-49.1050938026,-28.1325913886,Rio Fortuna,,Tubarão,Sul Catarinense
+4215000,SC,Rio Negrinho,,-49.5172950756,-26.2553250279,Rio Negrinho,,São Bento do Sul,Norte Catarinense
+4215059,SC,Rio Rufino,,-49.7775918043,-27.8632354792,Rio Rufino,,Campos de Lages,Serrana
+4215075,SC,Riqueza,,-53.3252862115,-27.0675941646,Riqueza,,São Miguel D'oeste,Oeste Catarinense
+4215109,SC,Rodeio,,-49.3047072335,-26.9435016684,Rodeio,,Blumenau,Vale do Itajaí
+4215208,SC,Romelândia,,-53.3201584,-26.6794635631,Romelandia,,São Miguel D'oeste,Oeste Catarinense
+4215307,SC,Salete,,-50.0017307311,-26.9752443334,Salete,,Rio do Sul,Vale do Itajaí
+4215356,SC,Saltinho,,-53.0586312489,-26.6085589196,Saltinho,,Chapecó,Oeste Catarinense
+4215406,SC,Salto Veloso,,-51.405208078,-26.9031646077,Salto Veloso,,Joaçaba,Oeste Catarinense
+4215455,SC,Sangão,,-49.1340298642,-28.6332229229,Sangao,,Tubarão,Sul Catarinense
+4215505,SC,Santa Cecília,,-50.4229016203,-26.9569007446,Santa Cecilia,,Curitibanos,Serrana
+4215554,SC,Santa Helena,,-53.6199878739,-26.9398439236,Santa Helena,,São Miguel D'oeste,Oeste Catarinense
+4215604,SC,Santa Rosa de Lima,,-49.1250913029,-28.0356055728,Santa Rosa de Lima,,Tubarão,Sul Catarinense
+4215653,SC,Santa Rosa do Sul,,-49.7176263736,-29.1352882186,Santa Rosa do Sul,,Araranguá,Sul Catarinense
+4215679,SC,Santa Terezinha,,-50.0055291871,-26.780982354,Santa Terezinha,,Canoinhas,Norte Catarinense
+4215687,SC,Santa Terezinha do Progresso,,-53.1998469617,-26.6197755739,Santa Terezinha do Progresso,,Chapecó,Oeste Catarinense
+4215695,SC,Santiago do Sul,,-52.6759494793,-26.6348090909,Santiago do Sul,,Chapecó,Oeste Catarinense
+4215703,SC,Santo Amaro da Imperatriz,,-48.7802399214,-27.6897477585,Santo Amaro da Imperatriz,,Florianópolis,Grande Florianópolis
+4215752,SC,São Bernardino,,-52.9655387397,-26.4732782463,Sao Bernardino,,Chapecó,Oeste Catarinense
+4215802,SC,São Bento do Sul,,-49.3869788951,-26.2494854185,Sao Bento do Sul,,São Bento do Sul,Norte Catarinense
+4215901,SC,São Bonifácio,,-48.9293119586,-27.8964966985,Sao Bonifacio,,Tabuleiro,Grande Florianópolis
+4216008,SC,São Carlos,,-53.0173942733,-27.0786350779,Sao Carlos,,Chapecó,Oeste Catarinense
+4216057,SC,São Cristovão do Sul,,-50.4346289331,-27.2829466734,Sao Cristovao do Sul,,Curitibanos,Serrana
+4216107,SC,São Domingos,,-52.5372274685,-26.5578303695,Sao Domingos,,Xanxerê,Oeste Catarinense
+4216206,SC,São Francisco do Sul,,-48.6375707582,-26.2440178842,Sao Francisco do Sul,,Joinville,Norte Catarinense
+4216255,SC,São João do Oeste,,-53.5959666797,-27.0974826254,Sao Joao do Oeste,,São Miguel D'oeste,Oeste Catarinense
+4216305,SC,São João Batista,,-48.8570042802,-27.2958805567,Sao Joao Batista,,Tijucas,Grande Florianópolis
+4216354,SC,São João do Itaperiú,,-48.7677653868,-26.6174540463,Sao Joao do Itaperiu,,Itajaí,Vale do Itajaí
+4216404,SC,São João do Sul,,-49.8065713857,-29.2234797912,Sao Joao do Sul,,Araranguá,Sul Catarinense
+4216503,SC,São Joaquim,,-49.9367417605,-28.2947124992,Sao Joaquim,,Campos de Lages,Serrana
+4216602,SC,São José,,-48.6160227159,-27.5903120772,Sao Jose,,Florianópolis,Grande Florianópolis
+4216701,SC,São José do Cedro,,-53.5001241069,-26.4560602968,Sao Jose do Cedro,,São Miguel D'oeste,Oeste Catarinense
+4216800,SC,São José do Cerrito,,-50.5813861763,-27.6685865188,Sao Jose do Cerrito,,Campos de Lages,Serrana
+4216909,SC,São Lourenço do Oeste,,-52.851333667,-26.3551901646,Sao Lourenco do Oeste,,Chapecó,Oeste Catarinense
+4217006,SC,São Ludgero,,-49.1756843247,-28.3268955251,Sao Ludgero,,Tubarão,Sul Catarinense
+4217105,SC,São Martinho,,-48.977786248,-28.1644952896,Sao Martinho,,Tubarão,Sul Catarinense
+4217154,SC,São Miguel da Boa Vista,,-53.2545563767,-26.6944751453,Sao Miguel da Boa Vista,,Chapecó,Oeste Catarinense
+4217204,SC,São Miguel do Oeste,,-53.5188394062,-26.7264271767,Sao Miguel do Oeste,,São Miguel D'oeste,Oeste Catarinense
+4217253,SC,São Pedro de Alcântara,,-48.7876695873,-27.5671700934,Sao Pedro de Alcantara,,Florianópolis,Grande Florianópolis
+4217303,SC,Saudades,,-52.9955697273,-26.919756951,Saudades,,Chapecó,Oeste Catarinense
+4217402,SC,Schroeder,,-49.0732596915,-26.4209759126,Schroeder,,Joinville,Norte Catarinense
+4217501,SC,Seara,,-52.302854828,-27.1456976229,Seara,,Concórdia,Oeste Catarinense
+4217550,SC,Serra Alta,,-53.0462763415,-26.7247733741,Serra Alta,,Chapecó,Oeste Catarinense
+4217600,SC,Siderópolis,,-49.420540933,-28.5951024182,Sideropolis,,Criciúma,Sul Catarinense
+4217709,SC,Sombrio,,-49.6342103641,-29.1091327568,Sombrio,,Araranguá,Sul Catarinense
+4217758,SC,Sul Brasil,,-52.9642047957,-26.7369362097,Sul Brasil,,Chapecó,Oeste Catarinense
+4217808,SC,Taió,,-50.0050964643,-27.1179373002,Taio,,Rio do Sul,Vale do Itajaí
+4217907,SC,Tangará,,-51.2459143753,-27.1010111042,Tangara,,Joaçaba,Oeste Catarinense
+4217956,SC,Tigrinhos,,-53.1575419839,-26.6894748378,Tigrinhos,,Chapecó,Oeste Catarinense
+4218004,SC,Tijucas,,-48.6320705639,-27.2394536072,Tijucas,,Tijucas,Grande Florianópolis
+4218103,SC,Timbé do Sul,,-49.8441177628,-28.8325174935,Timbe do Sul,,Araranguá,Sul Catarinense
+4218202,SC,Timbó,,-49.2777122898,-26.822902575,Timbo,,Blumenau,Vale do Itajaí
+4218251,SC,Timbó Grande,,-50.6746741365,-26.617828491,Timbo Grande,,Canoinhas,Norte Catarinense
+4218301,SC,Três Barras,,-50.305419368,-26.1140963368,Tres Barras,,Canoinhas,Norte Catarinense
+4218350,SC,Treviso,,-49.4559333789,-28.5184848579,Treviso,,Criciúma,Sul Catarinense
+4218400,SC,Treze de Maio,,-49.1448153072,-28.5581400375,Treze de Maio,,Tubarão,Sul Catarinense
+4218509,SC,Treze Tílias,,-51.4146746651,-26.9985363059,Treze Tilias,,Joaçaba,Oeste Catarinense
+4218608,SC,Trombudo Central,,-49.7924782341,-27.3030195291,Trombudo Central,,Rio do Sul,Vale do Itajaí
+4218707,SC,Tubarão,,-49.005268077,-28.4800339479,Tubarao,,Tubarão,Sul Catarinense
+4218756,SC,Tunápolis,,-53.641459736,-26.9722235915,Tunapolis,,São Miguel D'oeste,Oeste Catarinense
+4218806,SC,Turvo,,-49.6808657451,-28.9247492174,Turvo,,Araranguá,Sul Catarinense
+4218855,SC,União do Oeste,,-52.8514964564,-26.7617370137,Uniao do Oeste,,Chapecó,Oeste Catarinense
+4218905,SC,Urubici,,-49.5882056111,-28.004554912,Urubici,,Campos de Lages,Serrana
+4218954,SC,Urupema,,-49.8732112424,-27.9526858098,Urupema,,Campos de Lages,Serrana
+4219002,SC,Urussanga,,-49.3191079186,-28.5199662039,Urussanga,,Criciúma,Sul Catarinense
+4219101,SC,Vargeão,,-52.1541056501,-26.8639833174,Vargeao,,Xanxerê,Oeste Catarinense
+4219150,SC,Vargem,,-50.9781506257,-27.4899701004,Vargem,,Curitibanos,Serrana
+4219176,SC,Vargem Bonita,,-51.7447401814,-27.0032416045,Vargem Bonita,,Joaçaba,Oeste Catarinense
+4219200,SC,Vidal Ramos,,-49.3682191726,-27.3957786987,Vidal Ramos,,Ituporanga,Vale do Itajaí
+4219309,SC,Videira,,-51.1517052828,-27.006129068,Videira,,Joaçaba,Oeste Catarinense
+4219358,SC,Vitor Meireles,,-49.830751961,-26.8815776186,Vitor Meireles,,Rio do Sul,Vale do Itajaí
+4219408,SC,Witmarsum,,-49.8042033754,-26.9267427234,Witmarsum,,Rio do Sul,Vale do Itajaí
+4219507,SC,Xanxerê,,-52.404667139,-26.8745844992,Xanxere,,Xanxerê,Oeste Catarinense
+4219606,SC,Xavantina,,-52.3428505099,-27.0702501471,Xavantina,,Concórdia,Oeste Catarinense
+4219705,SC,Xaxim,,-52.5349325183,-26.9637194992,Xaxim,,Xanxerê,Oeste Catarinense
+4219853,SC,Zortéa,,-51.5495663068,-27.4502514117,Zortea,,Curitibanos,Serrana
